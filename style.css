@@ -1,0 +1,106 @@
+table tr td{
+    font-size: 13px;
+}
+table tr th{
+    font-size: 15px;
+}
+#header{
+    background:linear-gradient(to right,rgb(51,86,250),rgb(1,31,167));
+    padding-top: 5px;
+    
+}
+#header img{
+    width: 100px;
+    box-shadow: 5px 5px black;
+} 
+#header .bi-list{
+    color: white;
+    font-size: 30px;
+}
+#header .navbar-toggler{
+    border: 1px;color: white;
+}
+#header ul li a{
+    color: white;
+}
+#header .container-fluid{
+    padding-left: 0px;
+}
+#banner{
+    background:linear-gradient(to right,rgb(51,86,250),rgb(1,31,167));
+    padding-top: 18px;
+}
+#banner #banner-img{
+    width: 200px;
+    border-radius: 50%;
+}
+#banner img{
+    width: 100%;
+}
+#banner h3{
+    color: white;
+    font-family: 'arial(sans-serif)', cursive;
+
+}
+#banner p{
+    color: white;
+}
+#about .card{
+    border: 0px;
+}
+#about img{
+    width: 120px;
+}
+#about h3{
+    text-align: center;
+    padding: 10px 0px;
+
+}
+#footer #footer-border{
+    width: 100%;
+}
+#footer img{
+    width: 80px;
+}
+#footer #footerlogo{
+    width: 100px;
+    padding-bottom: 15px;
+}
+#footer span{
+    font-size: 20px;
+    
+}
+#footer{ background:linear-gradient(to right,rgb(51,86,250),rgb(1,31,167));
+
+
+}
+#footer p{
+    color: white;
+    font-family: 'La Belle Aurore', cursive;
+}
+#footer h2{
+    color: white;
+    font-family: 'La Belle Aurore', cursive;
+}
+
+#testi img{
+    width: 100px;
+}
+#testi{
+    padding-top: 15px;
+}
+#login{
+    display: flex;
+    height: 450px;
+    align-items:center;
+    margin-top: -45px;
+    margin-bottom: -35px;
+}
+#password{
+    display: flexbox;
+    height: 250px;
+    width: 100%;
+
+    justify-content: center;
+    align-items:center;
+}
